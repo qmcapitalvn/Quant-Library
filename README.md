@@ -722,7 +722,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [finalytics](https://github.com/Nnamdi-sys/finalytics): Một thư viện Rust để phân tích dữ liệu tài chính.
 
-# Các phẩm, đào tạo & sách
+# Tài liệu hướng dẫn & sách
 
 - [Derman Papers](https://github.com/MarcosCarreira/DermanPapers): Sổ ghi chép sao chép các tài liệu tài chính định lượng nguyên bản của Emanuel Derman.
 
