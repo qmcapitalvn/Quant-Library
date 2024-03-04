@@ -297,6 +297,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 - [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) : Lịch giao dịch để sử dụng với pandas cho các ứng dụng giao dịch.
 
 ## Nguồn dữ liệu
+- [vnstock](https://github.com/thinh-vu/vnstock): vnstock là thư viện Python được thiết kế để tải dữ liệu chứng khoán Việt Nam một cách dễ dàng và miễn phí. vnstock sử dụng các nguồn cấp dữ liệu đáng tin cậy, bao gồm nhưng không giới hạn từ công ty chứng khoán và công ty phân tích thị trường tại Việt Nam.
 
 - [yfinance](https://github.com/ranaroussi/yfinance): Trình tải dữ liệu thị trường từ Yahoo! Finance (+faster Pandas Datareader).
 
