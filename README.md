@@ -230,9 +230,9 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [Intelligent Trading Bot](https://github.com/intelligent-trading-bot/intelligent-trading-bot): Tự động tạo tín hiệu và giao dịch dựa trên học máy và kỹ thuật tạo đặc trưng.
 
-- [fastquant] - (https://github.com/enzoampil/fastquant): fastquant cho phép dễ dàng kiểm tra lại chiến lược đầu tư chỉ với vài dòng mã Python.
+- [fastquant](https://github.com/enzoampil/fastquant): fastquant cho phép dễ dàng kiểm tra lại chiến lược đầu tư chỉ với vài dòng mã Python.
 
-- [nautilus_trader] - (https://github.com/nautechsystems/nautilus_trader): Một nền tảng giao dịch thuật toán hiệu suất cao và kiểm tra lại dựa trên sự kiện.
+- [nautilus_trader](https://github.com/nautechsystems/nautilus_trader): Một nền tảng giao dịch thuật toán hiệu suất cao và kiểm tra lại dựa trên sự kiện.
 
 ## Phân tích rủi ro
 
