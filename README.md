@@ -8,7 +8,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [numpy](https://numpy.org/): Là gói cơ bản cho tính toán khoa học với Python
 
-- [scipy](https://scipy.org/): SciPy (phát âm là “Sigh Pie”) là một hệ sinh thái dựa trên Python của phần mềm mã nguồn mở cho toán học, khoa học và kỹ thuật
+- [scipy](https://scipy.org/): SciPy là một hệ sinh thái dựa trên Python của phần mềm mã nguồn mở cho toán học, khoa học và kỹ thuật
 
 - [pandas](https://pandas.pydata.org/): Pandas là thư viện mã nguồn mở, được cấp phép BSD, cung cấp cấu trúc dữ liệu hiệu suất cao, dễ sử dụng cho ngôn ngữ lập trình Python
 
