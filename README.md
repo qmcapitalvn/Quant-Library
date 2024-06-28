@@ -86,7 +86,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [lppls](https://github.com/Boulder-Investment-Technologies/lppls): Một mô-đun Python để phù hợp với mô hình Log-Periodic Power Law Singularity
 
-## Giao dịch và Kiểm tra lại (Backtesting)
+## Giao dịch và Kiểm thử lại (Backtesting)
 
 - [skfolio](https://github.com/scikit-learn/scikit-learn): Thư viện Python cho tối ưu hóa danh mục đầu tư, xây dựng trên scikit-learn
 
