@@ -12,7 +12,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [pandas](https://pandas.pydata.org/): Pandas là thư viện mã nguồn mở, được cấp phép BSD, cung cấp cấu trúc dữ liệu hiệu suất cao, dễ sử dụng cho ngôn ngữ lập trình Python
 
-- [quantdsl](https://github.com/jamescarr0/quantdsl): Ngôn ngữ chuyên biệt cho phân tích định lượng trong tài chính và giao dịch
+- [quantdsl](https://github.com/jamescarr0/quantdsl): Ngôn ngữ dành cho phân tích định lượng trong tài chính và giao dịch
 
 - [statistics](https://docs.python.org/3/library/statistics.html): Thư viện Python tích hợp sẵn cho tất cả các phép tính toán thống kê cơ bản
 
@@ -40,7 +40,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [ffn](https://github.com/pmorissette/ffn): Ffn là một thư viện để xây dựng, kiểm tra và phân tích các chiến lược đầu tư và hệ thống giao dịch tài chính.
 
-- [pynance](https://github.com/edouardswiac/pynance): Thư viện Python nhẹ để tập hợp và phân tích dữ liệu tài chính
+- [pynance](https://github.com/edouardswiac/pynance): Thư viện Python để tập hợp và phân tích dữ liệu tài chính
 
 - [tia](https://github.com/bmoscon/tia): Bộ công cụ tích hợp và phân tích
 
@@ -96,7 +96,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [Blankly](https://github.com/Blankly-Finance/Blankly): Hỗ trợ đầy đủ kiểm tra lại, giao dịch giả lập và triển khai trực tiếp
 
-- [TA-Lib](http://ta-lib.org/): Trình bao bọc Python cho TA-Lib
+- [TA-Lib](http://ta-lib.org/): Python cho TA-Lib
 
 - [zipline](https://github.com/quantopian/zipline): Thư viện giao dịch thuật toán Pythonic
 
@@ -104,7 +104,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [quantitative](https://github.com/quantopian/quantopian-tools): Thư viện tài chính định lượng và kiểm tra lại
 
-- [analyzer](https://github.com/quantopian/pyfolio): Khung Python cho giao dịch tài chính và kiểm tra lại các chiến lược giao dịch theo thời gian thực
+- [analyzer](https://github.com/quantopian/pyfolio): Python cho giao dịch tài chính và kiểm tra lại các chiến lược giao dịch theo thời gian thực
 
 - [bt](https://github.com/pmorissette/bt): Kiểm tra lại linh hoạt cho Python
 
@@ -112,7 +112,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [pythalesians](https://github.com/thalesians/pythalesians): Thư viện Python để kiểm tra lại các chiến lược giao dịch, vẽ biểu đồ, tải xuống dữ liệu thị trường
 
-- [pybacktest](https://github.com/ematvey/pybacktest): Khung kiểm tra lại được vector hóa trong Python / pandas
+- [pybacktest](https://github.com/ematvey/pybacktest): Kiểm tra lại được vector hóa trong Python / pandas
 
 - [pyalgotrade](https://github.com/gbeced/pyalgotrade): Thư viện giao dịch thuật toán Python
 
@@ -136,7 +136,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [zvt](https://github.com/zvtvz/zvt): Dự án sử dụng SQL, pandas để cung cấp một cách thống nhất và có thể mở rộng để ghi dữ liệu, các yếu tố tính toán, chọn bảo mật, kiểm tra ngược, giao dịch theo thời gian thực và nó có thể hiển thị tất cả chúng trong biểu đồ rõ ràng trong thời gian thực
 
-- [pylivetrader](https://github.com/alpacahq/pylivetrader): TThư viện giao dịch trực tiếp tương thích với zipline
+- [pylivetrader](https://github.com/alpacahq/pylivetrader): Thư viện giao dịch trực tiếp tương thích với zipline
 
 - [pipeline-live](https://github.com/alpacahq/pipeline-live): Khả năng pipeline của zipline với IEX cho giao dịch trực tiếp
 
@@ -144,15 +144,15 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [moonshot](https://www.quantrocket.com/docs/#moonshot): Công cụ giao dịch và backtester được vector hóa cho QuantRocket dựa trên Pandas
 
-- [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt): Tối ưu hóa danh mục đầu tư tài chính trong python, bao gồm cả biên giới hiệu quả cổ điển và các phương pháp tiên tiến
+- [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt): Tối ưu hóa danh mục đầu tư tài chính trong python
 
-- [Eiten](https://github.com/tradytics/eiten): Eiten là một bộ công cụ mã nguồn mở của Tradytics thực hiện các chiến lược đầu tư thống kê và thuật toán như Danh mục Eigen, Danh mục Biến động Tối thiểu, Danh mục Tỷ lệ Sharpe Tối đa, và Danh mục dựa trên Thuật toán Di truyền
+- [Eiten](https://github.com/tradytics/eiten): Eiten là một bộ công cụ mã nguồn mở của Tradytics thực hiện các chiến lược đầu tư thống kê và thuật toán như Danh mục Eigen, Danh mục Biến động Tối thiểu, Danh mục Tỷ lệ Sharpe Tối đa, và Danh mục
 
 - [riskparity.py](https://github.com/dppalomar/riskparity.py): Tốc độ nhanh và có thể mở rộng của danh mục đầu tư cân bằng rủi ro với TensorFlow 2.0
 
 - [mlfinlab](https://github.com/hudson-and-thames/mlfinlab): Triển khai liên quan đến “Tiến bộ trong Học Máy Tài chính” của Marcos Lopez de Prado. (Kỹ thuật Tính năng, Cấu trúc Dữ liệu Tài chính, Meta-Labeling)
 
-- [pyqstrat](https://github.com/abbass2/pyqstrat): Một thư viện python nhanh chóng, có thể mở rộng, minh bạch cho kiểm tra lại các chiến lược định lượng
+- [pyqstrat](https://github.com/abbass2/pyqstrat): Một thư viện python tốc độ nhanh chóng, có thể mở rộng, cho kiểm tra lại các chiến lược định lượng
 
 - [NowTrade](https://github.com/edouardpoitras/NowTrade): Thư viện Python cho kiểm tra lại các chiến lược kỹ thuật/cơ học trên thị trường chứng khoán và tiền tệ
 
@@ -246,7 +246,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [qfrm](https://github.com/PyFRM/PyFRM): Quản lý Rủi ro Tài chính Định lượng: công cụ OOP tuyệt vời để đo lường, quản lý và trực quan hóa rủi ro của các công cụ tài chính và danh mục đầu tư.
 
-- [visualize-wealth](https://github.com/benjaminmgross/visualize-wealth): Xây dựng danh mục đầu tư và phân tích định lượng]  
+- [visualize-wealth](https://github.com/benjaminmgross/visualize-wealth): Xây dựng danh mục đầu tư và phân tích định lượng 
 
 - [VisualPortfolio](https://github.com/wegamekinglc/VisualPortfolio): Công cụ này được sử dụng để trực quan hóa hiệu suất của một danh mục đầu tư.
 
@@ -266,9 +266,9 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [Spectre](https://github.com/Heerozh/spectre): Thư viện phân tích Yếu tố được tăng tốc bằng GPU và Backtester.
 
-## Môi trường nghiên cứu định lượng
+## Môi trường dành cho nghiên cứu định lượng
 
-- [Jupyter Quant](https://github.com/QuantInsti/Jupyter_Quant): Môi trường nghiên cứu định lượng Jupyter được docker hóa với các công cụ được tải trước cho phân tích định lượng, statsmodels, pymc, arch, py_vollib, zipline-reloaded, PyPortfolioOpt, v.v.
+- [Jupyter Quant](https://github.com/QuantInsti/Jupyter_Quant): Môi trường dành cho nghiên cứu định lượng Jupyter được docker hóa với các công cụ được tải trước cho phân tích định lượng, statsmodels, pymc, arch, py_vollib, zipline-reloaded, PyPortfolioOpt, v.v.
 
 ## Chuỗi thời gian
 
@@ -294,6 +294,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 - [exchange_calendars](https://github.com/quantopian/exchange_calendars): Lịch giao dịch chứng khoán.
 
 - [bizdays](https://github.com/wilsonfreitas/bizdays): Tính toán và sử dụng ngày làm việc.
+
 - [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) : Lịch giao dịch để sử dụng với pandas cho các ứng dụng giao dịch.
 
 ## Nguồn dữ liệu
@@ -420,7 +421,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [pyxll](https://www.pyxll.com/): PyXLL là một phần bổ trợ Excel cho phép bạn mở rộng Excel mà không cần sử dụng gì ngoài mã Python.
 
-## Trực Quan Hóa
+## Trực quan hóa
 - [D-Tale](https://github.com/man-group/dtale): Trình trực quan hóa cho các bảng dữ liệu pandas và tập dữ liệu xarray.
 
 - [mplfinance](https://github.com/matplotlib/mplfinance): Tiện ích matplotlib cho trực quan hóa và phân tích trực quan dữ liệu tài chính.
@@ -431,7 +432,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 
 - [market-analy](https://github.com/maread99/market_analy): Phân tích và lập biểu đồ tương tác bằng cách sử dụng giá thị trường và bqplot.
 # R
-## Thư viện R & Cấu trúc dữ lliệu
+## Thư viện R & Cấu trúc dữ liệu
 
 - [xts](https://github.com/joshuaulrich/xts): Thư viện “xts - eXtensible Time Series” cung cấp khả năng xử lý thống nhất cho các lớp dữ liệu dựa trên thời gian khác nhau của R bằng cách mở rộng "zoo", tối đa hóa việc bảo toàn thông tin định dạng gốc và cho phép người dùng tùy chỉnh và mở rộng ở cấp độ người dùng, đồng thời đơn giản hóa khả năng tương tác giữa các lớp với nhau.
 
@@ -475,7 +476,7 @@ Từ khóa: r packages, python packages, julia packages, software development, s
 - [simfinapi](https://github.com/matthiasgomolka/simfinapi): Làm cho dữ liệu ‘SimFin’ (https://simfin.com/) dễ tiếp cận trong R.
 
 
-## Công cụ và Định giá tài chính
+## Định giá tài chính
 
 - [RQuantLib](http://dirk.eddelbuettel.com/code/rquantlib.html): RQuantLib kết nối GNU R với QuantLib.
 
