@@ -1,4 +1,4 @@
-# CÁC THƯ VIỆN TRONG LĨNH VỰC TÀI CHÍNH ĐỊNH LƯỢNG
+# **CÁC THƯ VIỆN TRONG LĨNH VỰC TÀI CHÍNH ĐỊNH LƯỢNG**
 ## Giới thiệu
 Trong lĩnh vực tài chính định lượng, việc áp dụng các công cụ phân tích và mô hình hóa dựa trên dữ liệu đã trở thành một phần không thể thiếu. Các thư viện số và cấu trúc dữ liệu cung cấp sự hỗ trợ cần thiết cho việc đưa ra quyết định dựa trên phân tích chính xác và hiệu quả. Trong tài liệu này QM Capital đề cập đến một loạt các công cụ và thư viện quan trọng, nhấn mạnh vào vai trò của các thư viện trong việc tối ưu hóa quy trình làm việc trong lĩnh vực tài chính định lượng.
 
